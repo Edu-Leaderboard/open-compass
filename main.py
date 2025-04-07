@@ -114,4 +114,9 @@ footer { display: none !important; }
 
 # 运行 Gradio App
 if __name__ == "__main__":
-    demo.launch(server_name="0.0.0.0", server_port=7788)
+    import argparse
+    parser = argparse.ArgumentParser(description="启动 Gradio 应用")
+    parser.add_argument("--port", type=int, default=7788, help="指定端口号")
+    args = parser.parse_args()
+
+    demo.launch(server_name="0.0.0.0", server_port=args.port)
