@@ -1,8 +1,8 @@
-模型,Avg
-Spark4.0 Max,91.8
-DeepSeek-R1,91
-Gemini-2.0-Pro-Exp-02-05,90.8
-o1-2024-12-17,89.2
-Claude 3.5 Sonnet 20241022,88.2
-Qwen2.5-32B-Instruct,85.71
-Edullm_32B,87.33
+模型,C-Eval,SimpleQA,C-SimpleQA,AIME2024,HumanEval,LiveCodeBench
+Spark4.0 Max,91.8,,,,,
+DeepSeek-R1,91,,,,,
+Gemini-2.0-Pro-Exp-02-05,90.8,,,,,
+o1-2024-12-17,89.2,,,,,
+Claude 3.5 Sonnet 20241022,88.2,,,,,
+Qwen2.5-32B-Instruct,85.71,,,,,
+Edullm_32B,87.33,8.14,48.41 ,15,86.59,43.44
