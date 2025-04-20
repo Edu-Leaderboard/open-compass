@@ -1,0 +1,15 @@
+模型,STEM,社会科学,人文科学,Other,AVG
+Gemma-2-27B-it,,,,,
+Qwen2.5-7B-Instruct,,,,,
+Mistral-Small-Instruct-2409,48.29,56.75,55.29,56.33,53.1
+InternLM2.5-Chat-7B,,,,,
+InternLM3-8B-Instruct,,,,,
+GLM-4-9B-Chat,,,,,
+Llama3.1-8B-Instruct,,,,,
+360Zhinao2-7B-Chat-4K,,,,,
+Gemma-2-9B-it,,,,,
+Ministral-8B-Instruct-2410,,,,,
+Yi-1.5-9B-Chat,,,,,
+Llama3.2-3B-Instruct,,,,,
+Qwen2.5-32B-Instruct,80.39,92.21,87.81,88.48,85.71
+Edullm_32B_D_v8,85.08,91.7,88.03,89.85,88.66
